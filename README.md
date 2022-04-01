@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @devasenan134
-- 👀 I’m interested in Artificial Intelligence
-- 🌱 I’m currently learning openCV
-- 💞️ I’m looking to collaborate on ...
+<!-- - 👀 I’m interested in Artificial Intelligence -->
+- 🌱 I’m currently learning Machine Learning and Docker
+<!-- - 💞️ I’m looking to collaborate on ... -->
 - 📫 How to reach me with my mail ID devasenan.murugan@gmail.com
 
 <!---
