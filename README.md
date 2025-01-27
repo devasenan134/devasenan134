@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @devasenan134
 <!-- - 👀 I’m interested in Artificial Intelligence -->
-- 🌱 High on passion for Computer Science and AI
+- 🌱 High on passion for Computer Science and ML Applications
 <!-- - 💞️ I’m looking to collaborate on ... -->
 - 📫 How to reach me with my mail ID devasenan.murugan@gmail.com
 
