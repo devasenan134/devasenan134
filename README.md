@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @devasenan134
 <!-- - 👀 I’m interested in Artificial Intelligence -->
-- 🌱 High on passion for Computer Vision and ML Applications
+- 🌱 High on passion for Computer Vision and AI Applications
 <!-- - 💞️ I’m looking to collaborate on ... -->
 
 <!---
